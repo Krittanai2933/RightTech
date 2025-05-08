@@ -8,5 +8,9 @@
 
 ## ความรู้ทั่วไป <a href="#common" id="common"></a>
 
-* [🔐 Hash Function และ SHA-256](common/Hash.md)
+* [Hash Function และ SHA-256](common/Hash.md)
 * [🔐 Public Key Encryption (PKE) คืออะไร?](common/public-key-encryption-pke.md)
+
+## How to ต่าง ๆ
+
+* [Sparrow wallet](how-to/sparrow-wallet.md)
