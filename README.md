@@ -21,6 +21,22 @@ layout:
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
+หากดูรายการแล้วรู้สึกว่าจับประเด็นไม่ทัน พวกเรามีสรุปให้ตรงนี้
+
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
+
+สำหรับใครที่ดูรายการแล้วยังมีข้อสงสัย หรือรู้สึกว่ายังขาดความรู้พื้นฐานใด ๆ ลองเช็คในนี้
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+สำหรับใครที่อยากลองใช้ software ต่าง ๆ ที่เกี่ยวกับบิตคอยน์ และมองหารีวิว ลองมาเช็คในนี้สิ
+
+
+
+ทั้งนี้ทั้งนั้น GitBook เล่มนี้ทำขึ้นมาเพื่อรวบรวมเนื้อหาต่าง ๆ ที่ทางพวกเราทีม Rightshift ได้ทำไว้ให้คนที่ต้องการศึกษาบิตคอยน์ในฝั่งของเทคนิคคอล หากท่านเห็นว่ามีประโยชน์และอยากสนับสนุน โปรดแชร์มันออกไปให้คนที่ท่านรัก หรือร่วมโดเนทในช่องทางข้างล่างนี้
+
+{% embed url="https://getalby.com/p/righttech" %}
