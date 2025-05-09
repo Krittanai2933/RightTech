@@ -11,10 +11,7 @@
 * [Hash Function และ SHA-256](common/Hash.md)
 * [🔐 Public Key Encryption (PKE) คืออะไร?](common/public-key-encryption-pke.md)
 * [OP\_Return](op_return.md)
-
-***
-
-* [BIP 360: Pay to Quantum Resistant Hash](bip-360-pay-to-quantum-resistant-hash.md)
+* [BIP 360: Pay to Quantum Resistant Hash](common/bip-360-pay-to-quantum-resistant-hash.md)
 
 ## How to ต่าง ๆ
 
