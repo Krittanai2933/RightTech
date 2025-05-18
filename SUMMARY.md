@@ -17,3 +17,4 @@
 ## How to ต่าง ๆ
 
 - [Sparrow wallet](how-to/sparrow-wallet.md)
+- [Bitcoin node](how-to/bitcoin-node.md)
