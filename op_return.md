@@ -5,6 +5,10 @@ icon: rotate-right
 
 # OP\_Return
 
+{% embed url="https://www.youtube.com/watch?v=BrYa8HuM-1o" %}
+เนิื้อหาในคลิปมีการใช้ AI ในการสร้างเสียง และเนื้อหาไม่ครบถ้วนเท่าบทความด้านล่าง จัดทำเพื่อใครที่ต้องการทำความเข้าใจแบบพื้นฐานก่อนจะลงลึก
+{% endembed %}
+
 **OP\_RETURN** เป็น opcode ในภาษา script ของ บิตคอยน์ที่เมื่อพบใน lock script จะทำให้สคริปต์สิ้นสุดทันทีและผลลัพธ์ของ output นั้นถือว่าไม่สามารถใช้จ่ายได้ (unspendable) [\[1\]](https://developer.bitcoin.org/reference/transactions.html) เนื่องจาก output ที่ใช้ OP\_RETURN จะไม่ถูกเพิ่มเข้าไปใน UTXO set จึงใช้สำหรับ “เผา” เหรียญหรือฝังข้อมูลเล็ก ๆ ลงบนบล็อกเชนได้โดยไม่สร้างภาระให้กลับ UTXO อื่น ๆ [\[2\]](https://en.bitcoin.it/wiki/OP_RETURN) แต่อย่างไรก็ดี เหล่านักพัฒนาได้ทำการระบุไว้ว่า การเก็บข้อมูลบนบล็อกเชนนั้นยังคงไม่ใช่จุดประสงค์หลักของ Bitcoin และเป็น “**ความคิดที่ไม่ดี**” ในทางปฏิบัติ [\[3\]](https://bitcoin.org/en/release/v0.9.0#opreturn-and-data-in-the-block-chain)
 
 ### จุดเริ่มต้นของการนำ OP\_RETURN มาใช้
