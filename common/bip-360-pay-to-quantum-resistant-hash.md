@@ -7,7 +7,7 @@ icon: shield
 
 # BIP 360: Pay to Quantum Resistant Hash
 
-{% embed url="https://youtu.be/BrYa8HuM-1o" %}
+{% embed url="https://youtu.be/4B81f7uGoBg" %}
 เนิื้อหาในคลิปมีการใช้ AI ในการสร้างเสียง และเนื้อหาไม่ครบถ้วนเท่าบทความด้านล่าง จัดทำเพื่อใครที่ต้องการทำความเข้าใจแบบพื้นฐานก่อนจะลงลึก
 {% endembed %}
 
