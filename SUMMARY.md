@@ -17,6 +17,7 @@
 * [BIP 360: Pay to Quantum Resistant Hash](common/bip-360-pay-to-quantum-resistant-hash.md)
 * [PSBT คืออะไร และแก้ปัญหาอะไร](common/psbt.md)
 * [Nostr Wallet Connect (NWC)](common/nostr-wallet-connect-nwc.md)
+* [Coinjoin/Payjoin ](common/coinjoin-payjoin.md)
 
 ## How to ต่าง ๆ
 
