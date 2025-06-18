@@ -39,4 +39,4 @@ layout:
 
 ทั้งนี้ทั้งนั้น GitBook เล่มนี้ทำขึ้นมาเพื่อรวบรวมเนื้อหาต่าง ๆ ที่ทางพวกเราทีม Rightshift ได้ทำไว้ให้คนที่ต้องการศึกษาบิตคอยน์ในฝั่งของเทคนิคคอล หากท่านเห็นว่ามีประโยชน์และอยากสนับสนุน โปรดแชร์มันออกไปให้คนที่ท่านรัก หรือร่วมโดเนทในช่องทางข้างล่างนี้
 
-<a href="https://lnbits.notoshi.win/tipjar/9DWv5yDbdJxmH7HoPJFCeL" class="button primary">Donate!</a>
+<a href="https://getalby.com/p/righttech" class="button primary">Donate!</a>
