@@ -17,7 +17,7 @@ layout:
 
 ยินดีต้อนรับสู่ Right Tech guild book สำหรับเนื้อหาเหล่านี้ทางเราตั้งใจทำขึ้นมาเพื่อให้ความรู้ในด้านของเทคโนโลยีของบิตคอยน์ให้กับทุกคน สำหรับคนที่ดูรายการแล้วไม่เข้าใจ หรือต้องการหาสรุปเพิ่มเติม สามารถดูได้ในนี้
 
-{% content-ref url="righttech" %}
+{% content-ref url="SUMMARY.md" %}
 [RightTech](SUMMARY.md)
 {% endcontent-ref %}
 
