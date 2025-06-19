@@ -17,19 +17,19 @@ layout:
 
 ยินดีต้อนรับสู่ Right Tech guild book สำหรับเนื้อหาเหล่านี้ทางเราตั้งใจทำขึ้นมาเพื่อให้ความรู้ในด้านของเทคโนโลยีของบิตคอยน์ให้กับทุกคน สำหรับคนที่ดูรายการแล้วไม่เข้าใจ หรือต้องการหาสรุปเพิ่มเติม สามารถดูได้ในนี้
 
-{% content-ref url="broken-reference" %}
+{% content-ref url="righttech" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
 หากดูรายการแล้วรู้สึกว่าจับประเด็นไม่ทัน พวกเรามีสรุปให้ตรงนี้
 
-{% content-ref url="broken-reference" %}
+{% content-ref url="common" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
 สำหรับใครที่ดูรายการแล้วยังมีข้อสงสัย หรือรู้สึกว่ายังขาดความรู้พื้นฐานใด ๆ ลองเช็คในนี้
 
-{% content-ref url="broken-reference" %}
+{% content-ref url="how-to" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
