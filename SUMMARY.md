@@ -19,6 +19,7 @@
 * [Nostr Wallet Connect (NWC)](common/nostr-wallet-connect-nwc.md)
 * [Coinjoin/Payjoin](common/coinjoin-payjoin.md)
 * [Chain reorganization](common/chain-reorganization.md)
+* [Lightning network คืออะไร](common/lightning-network.md)
 
 ## How to ต่าง ๆ
 
