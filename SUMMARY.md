@@ -8,6 +8,7 @@
 - [Right Tech EP.2](righttech/ep2.md)
 - [Right Tech EP.3](righttech/ep3.md)
 - [Right Tech EP.4](righttech/ep4.md)
+- [Right Tech EP.5](righttech/ep5.md)
 
 ## ความรู้ทั่วไป <a href="#common" id="common"></a>
 
