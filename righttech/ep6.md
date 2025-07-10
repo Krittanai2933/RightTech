@@ -106,4 +106,4 @@ Tx B: ส่ง 0.01 BTC (input เดิม) → ค่าธรรมเนี
 
 ในกรณีที่มี node ใหม่เข้ามาใน network node ใหม่จะ copy blick ทั้งหมดจาก node อื่นๆใน network
 
-สามารถดูวิธีกการรัน node ได้ที่ [https://www.yakihonne.com/article/naddr1qvzqqqr4gupzqqm59ss9edkgmpsrrjfmcj5m85vysnpjepjk8lqwyxy3pgkln2jaqqgrjdn9xgmxzdp5vsuxgd35vv6rswyyjc2]
+### [สามารถดูวิธีกการรัน node ได้ที่นี้](https://www.yakihonne.com/article/naddr1qvzqqqr4gupzqqm59ss9edkgmpsrrjfmcj5m85vysnpjepjk8lqwyxy3pgkln2jaqqgrjdn9xgmxzdp5vsuxgd35vv6rswyyjc2)
