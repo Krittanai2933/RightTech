@@ -3,12 +3,13 @@
 * [Welcome to RightTech Guild Book](README.md)
 
 ## RightTech
-- [Right Tech EP.1](righttech/ep1.md)
-- [Right Tech EP.2](righttech/ep2.md)
-- [Right Tech EP.3](righttech/ep3.md)
-- [Right Tech EP.4](righttech/ep4.md)
-- [Right Tech EP.5](righttech/ep5.md)
-- [Right Tech EP.6](righttech/ep6.md)
+
+* [Right Tech EP.1](righttech/ep1.md)
+* [Right Tech EP.2](righttech/ep2.md)
+* [Right Tech EP.3](righttech/ep3.md)
+* [Right Tech EP.4](righttech/ep4.md)
+* [Right Tech EP.5](righttech/ep5.md)
+* [Right Tech EP.6](righttech/ep6.md)
 
 ## ความรู้ทั่วไป <a href="#common" id="common"></a>
 
@@ -21,6 +22,7 @@
 * [Coinjoin/Payjoin](common/coinjoin-payjoin.md)
 * [Chain reorganization](common/chain-reorganization.md)
 * [Lightning network คืออะไร](common/lightning-network.md)
+* [Utreexo: โครงสร้างและการย่อขนาด UTXO ใน Bitcoin](common/utreexo-utxo-bitcoin.md)
 
 ## How to ต่าง ๆ
 
