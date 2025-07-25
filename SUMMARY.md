@@ -15,6 +15,7 @@
 
 * [Hash Function และ SHA-256](common/Hash.md)
 * [🔐 Public Key Encryption (PKE) คืออะไร?](common/public-key-encryption-pke.md)
+* [ไขกลไก Cashu กับ Blind Signaturesฅ](common/cashu-blind-signatures.md)
 * [OP\_Return](op_return.md)
 * [BIP 360: Pay to Quantum Resistant Hash](common/bip-360-pay-to-quantum-resistant-hash.md)
 * [PSBT คืออะไร และแก้ปัญหาอะไร](common/psbt.md)

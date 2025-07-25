@@ -4,7 +4,7 @@ icon: trees
 
 # Utreexo: โครงสร้างและการย่อขนาด UTXO ใน Bitcoin
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ภาพประกอบด้านบนแสดงการเติบโตของชุดข้อมูล UTXO ของ Bitcoin (ขนาดหน่วย GB) ตั้งแต่ปี 2019 จนถึง 2024 โดยเห็นว่าชุดข้อมูล UTXO เพิ่มขึ้นอย่างรวดเร็ว [\[1\]](https://bitcoinmagazine.com/technical/bitcoins-growing-utxo-problem-and-how-utreexo-can-help-solve-it) การเติบโตนี้ทำให้โหนด (node) แบบเดิมต้องใช้หน่วยความจำและพื้นที่จัดเก็บมากขึ้นเรื่อยๆ (ปัจจุบันมี UTXO ถึงประมาณ 60 ล้านรายการ หรือ \~12 GB) [\[2\]](https://bitcoinops.org/en/newsletters/2024/05/15/#release-of-utreexod-beta) ซึ่งอาจจะเป็นอุปสรรคต่อการรัน Bitcoin Full node ได้ในอนาคต Utreexo เป็นแนวคิดใหม่ที่แก้ปัญหานี้โดยใช้ _cryptographic accumulator_ แทนฐานข้อมูล UTXO แบบเดิม โดย Utreexo สามารถแทนข้อมูล UTXO หลายล้านรายการไว้ด้วยข้อมูลขนาดเล็กเพียงไม่กี่ร้อยไบต์ (ตัว accumulator มีขนาด <1 KB) [\[3\]](https://www.dci.mit.edu/projects/utreexo) แนวคิดนี้คือการแทนที่โหนดทุกเครื่องจะต้องเก็บ UTXO ทั้งหมดเอาไว้จะเปลี่ยนเป็นโหนดจะเก็บเพียงสถานะตัวสะสม (accumulator) เท่านั้น ส่วนผู้ถือเหรียญจะรักษาหลักฐาน (_proof_) ของ UTXO ที่ตนเป็นเจ้าของ เมื่อสร้างธุรกรรมจะส่งหลักฐานดังกล่าวแนบมากับธุรกรรมด้วย เพื่อตรวจสอบได้ว่าเหรียญที่ใช้จ่ายมีอยู่จริงในตัวสะสม ซึ่งวิธีนี้จะลดขนาดข้อมูลสถานะลงอย่างมากแลกกับการส่งข้อมูลเพิ่มเพียงเล็กน้อย (overhead ประมาณ +25% ในการดาวน์โหลดข้อมูลเทียบกับเดิม) [\[4\]](https://eprint.iacr.org/2019/611.pdf)
 
