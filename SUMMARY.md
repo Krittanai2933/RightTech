@@ -22,10 +22,14 @@
 * [Nostr Wallet Connect (NWC)](common/nostr-wallet-connect-nwc.md)
 * [Coinjoin/Payjoin](common/coinjoin-payjoin.md)
 * [Chain reorganization](common/chain-reorganization.md)
-* [Lightning network คืออะไร](common/lightning-network.md)
 * [Utreexo: โครงสร้างและการย่อขนาด UTXO ใน Bitcoin](common/utreexo-utxo-bitcoin.md)
 
 ## How to ต่าง ๆ
 
 * [Sparrow wallet](how-to/sparrow-wallet.md)
 * [Bitcoin node](how-to/bitcoin-node.md)
+
+## Outside of mainnet
+
+* [Liquid Network บน Bitcoin](outside-of-mainnet/liquid-network-bitcoin.md)
+* [Lightning network คืออะไร](outside-of-mainnet/lightning-network.md)
