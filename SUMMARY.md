@@ -3,13 +3,14 @@
 * [Welcome to RightTech Guild Book](README.md)
 
 ## RightTech
-- [Right Tech EP.1](righttech/ep1.md)
-- [Right Tech EP.2](righttech/ep2.md)
-- [Right Tech EP.3](righttech/ep3.md)
-- [Right Tech EP.4](righttech/ep4.md)
-- [Right Tech EP.5](righttech/ep5.md)
-- [Right Tech EP.6](righttech/ep6.md)
-- [Right Tech EP.7](righttech/ep7.md)
+
+* [Right Tech EP.1](righttech/ep1.md)
+* [Right Tech EP.2](righttech/ep2.md)
+* [Right Tech EP.3](righttech/ep3.md)
+* [Right Tech EP.4](righttech/ep4.md)
+* [Right Tech EP.5](righttech/ep5.md)
+* [Right Tech EP.6](righttech/ep6.md)
+* [Right Tech EP.7](righttech/ep7.md)
 
 ## ความรู้ทั่วไป <a href="#common" id="common"></a>
 
@@ -28,6 +29,7 @@
 
 * [Sparrow wallet](how-to/sparrow-wallet.md)
 * [Bitcoin node](how-to/bitcoin-node.md)
+* [Page 1](how-to/page-1.md)
 
 ## Outside of mainnet
 
