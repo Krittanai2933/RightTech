@@ -29,7 +29,7 @@
 
 * [Sparrow wallet](how-to/sparrow-wallet.md)
 * [Bitcoin node](how-to/bitcoin-node.md)
-* [Page 1](how-to/page-1.md)
+* [Miniscript-based scripting language for Bitcoin contracts](how-to/miniscript-based-scripting-language-for-bitcoin-contracts.md)
 
 ## Outside of mainnet
 
