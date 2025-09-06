@@ -53,4 +53,4 @@ SHA-256: 2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824
 
 SHA-256 คือหัวใจของความปลอดภัยในหลายระบบ โดยเฉพาะ **Bitcoin** ที่พึ่งพา Hash อย่างสมบูรณ์ในการรักษาความถูกต้องของข้อมูลและความโปร่งใสของธุรกรรม ด้วยความแข็งแกร่งและความเร็วในการคำนวณ ทำให้ SHA-256 ยังคงเป็นมาตรฐานความปลอดภัยในยุคดิจิทัล
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

@@ -33,5 +33,6 @@
 
 ## Outside of mainnet
 
+* [ARK: A Bitcoin Layer-2 Protocol](outside-of-mainnet/ark-a-bitcoin-layer-2-protocol.md)
 * [Liquid Network บน Bitcoin](outside-of-mainnet/liquid-network-bitcoin.md)
 * [Lightning network คืออะไร](outside-of-mainnet/lightning-network.md)

@@ -8,7 +8,7 @@ Cashu เป็นโปรโตคอล **Chaumian e‑cash** รูปแบ
 
 ระบบ Cashu ประกอบด้วยสองส่วนหลักคือ **mint** และ **wallet** ผู้ใช้ฝากบิตคอยน์ให้กับ mint รายใดรายหนึ่ง (โดยทั่วไปจะโอนไปผ่าน Lightning Network) แล้วฝั่ง mint จะออกโทเค็น e-cash ให้ตามมูลค่าที่ฝาก ผู้ใช้สามารถถือโทเค็นนี้ไว้แล้วใช้จ่ายได้ทันทีโดยไม่ต้องผ่า on-chain และการจ่ายภายใน mint เดียวกันจะเกิดขึ้นทันทีและเกือบไม่มีค่าธรรมเนียม
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 รูปข้างต้นคือ กระบวนการทำธุรกรรมพื้นฐานของ Cashu  ที่เริ่มจากการที่ผู้ใช้ฝาก Bitcoin ให้ mint ผ่าน Lightning Network แล้ว mint ออกโทเค็น e‑cash ให้ตามมูลค่า จากนั้นผู้ใช้สามารถส่งโทเค็นนี้ให้ผู้อื่นในมินท์เดียวกันได้ทันทีโดยไม่มีค่าธรรมเนียม หรือจะถอนโทเค็นกลับมาเป็น Bitcoin ผ่าน Lightning ก็ได้
 
