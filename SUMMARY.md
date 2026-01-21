@@ -14,6 +14,7 @@
 
 ## ความรู้ทั่วไป <a href="#common" id="common"></a>
 
+* [Silent Payments: บทถัดไปของวิวัฒนาการความเป็นส่วนตัวบนบิตคอยน์](common/silent-payments.md)
 * [Hash Function และ SHA-256](common/Hash.md)
 * [🔐 Public Key Encryption (PKE) คืออะไร?](common/public-key-encryption-pke.md)
 * [ไขกลไก Cashu กับ Blind Signaturesฅ](common/cashu-blind-signatures.md)
