@@ -121,8 +121,7 @@ $$
 * ในการดำเนินการทางคณิตศาสตร์บน **Elliptic Curve** จะมีการเดินการ 2 แบบคือ
   1. **add**: การบวกจุดสองจุดเข้าด้วยกัน
   2. **double**: การ “ดับเบิ้ล” จุด (การเพิ่มจุดนั้นเข้ากับตัวมันเอง)\
-     \
-
+     <br>
 * สองฟังก์ชันนี้รวมกันเพื่อทำ **multiply()** หรือการคูณจุดบนเส้นโค้งได้
 
 #### 2.5 Formath
@@ -144,12 +143,10 @@ $$
   * **P2PKH** (Pay to Public Key Hash)
     * Public Key อยู่ใน **input** → `ScriptSig`
     * Public Key Hash อยู่ใน **output** → `ScriptPubKey`\
-      \
-
+      <br>
   * **P2MS** (Pay to MultiSig)
     * Public Keys หลายตัวจะอยู่ใน **output** → `ScriptPubKey`\
-      \
-
+      <br>
   * **P2WPKH** (Pay to Witness Public Key Hash)
     * Public Key อยู่ใน **input** → `Witness`
     * Public Key Hash อยู่ใน **output** → `ScriptPubKey` (เป็น witness program)
@@ -170,8 +167,7 @@ $$
 * **Public Key Hash** ถูกสร้างโดยการนำ **Public Key** มา hash ด้วย:
   * **SHA256** ตามด้วย **RIPEMD160** (เรียกรวมว่า **Hash160**)
   * ผลลัพธ์คือ Hash ขนาด **160-bit** หรือ **20 bytes**\
-    \
-
+    <br>
 * นี้คือการเปรียบเทียบขนาดของ **Uncompressed Public Key**, **Compressed Public Key** และ **Public Key Hash**
 
 [![Image 6: Diagram showing the size difference between a uncompressed/compressed public key and a public key hash.](https://static.learnmeabitcoin.com/diagrams/png/keys-public-key-hash-size.png)](https://static.learnmeabitcoin.com/diagrams/png/keys-public-key-hash-size.png)
@@ -187,13 +183,11 @@ $$
 * **P2PKH (Pay to Public Key Hash)**:
   * **ScriptPubKey** → เก็บ **Public Key Hash** ของ **P2PKH**
   * **Public Key** จะถูกเปิดเผยใน **ScriptSig** เมื่อ **ouptput** นี้ ถูกใช้ใน **input** ใน **spending transaction**\
-    \
-
+    <br>
 * **P2WPKH (Pay To Witness Public Key Hash)**:
   * **Public Key Hash** จะอยู่ใน **ScriptPubKey** ของ P2WPKH
   * **Public Key** จะถูกเปิดเผยใน **Witness** เมื่อ **ouptput** นี้ ถูกใช้ใน **input** ใน **spending transaction**\
-    \
-
+    <br>
 
 ***
 
@@ -240,8 +234,7 @@ $$
 * การสร้าง **Signature** คุณต้องมี
   * **message**: ข้อมูลธุรกรรม (transaction data)
   * **Private Key**\
-    \
-
+    <br>
 * ขั้นตอนพื้นการ **sign transaction** (การเซ็นธุรกรรม)
   * สร้าง ธุรกรรม **(transaction)** — นี่คือข้อความ (message) ที่เราจะเซ็น
   * ใช้ **Private Key** ของคุณในการเซ็นธุรกรรม

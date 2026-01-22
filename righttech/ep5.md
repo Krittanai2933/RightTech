@@ -154,21 +154,16 @@ redeem script: `<public key 1> OP_CHECKSIGVERIFY <public key 2> OP_CHECKSIG`
 
 Sender: `OP_HASH160 <commitment> OP_EQUAL`
 
-Receiver: `<signature 2> <signature 1>` + `output Sender ( redeem script)`\
-
+Receiver: `<signature 2> <signature 1>` + `output Sender ( redeem script)`<br>
 
 Execution Stack:\
 `<signature 2> <signature 1> <public key 1> OP_CHECKSIGVERIFY <public key 2> OP_CHECKSIG`
 
-collision attack on P2SH:\
+collision attack on P2SH:<br>
 
-
-* first preimage attack:\
-
-* second preimage attack:\
-
-* colision attack:\
-
+* first preimage attack:<br>
+* second preimage attack:<br>
+* colision attack:<br>
   * หากผู้โจมตีเป็นคนที่ มี signature 1 ใน 2 ความปลอดภัย จาก $2^{160}$ จะเหลือ $2^{80}$ เท่านั้น ด้วน ตัเลข และทรัพยากรที่มีอยู่ในปัจจุบัน หากมีคนลงทุกสามารถทำได้
 
 ***
